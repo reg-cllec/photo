@@ -1,5 +1,8 @@
 package com.example.photogallery.photogallery;
 
+import com.example.photogallery.photogallery.entity.Images;
+import com.example.photogallery.photogallery.network.HandleXML;
+
 import org.junit.Test;
 
 import java.util.ArrayList;
