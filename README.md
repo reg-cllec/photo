@@ -10,3 +10,7 @@
 # image view
 * the title of the selected photo show beneth the big image.
 * click the photo or hit go back button, will go back to the grid view
+
+# to be improve
+* Handle net work latency
+* ...
