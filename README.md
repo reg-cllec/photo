@@ -14,3 +14,5 @@
 # to be improve
 * Handle net work latency
 * ...
+<img src="screenshot/Screenshot_1506920215.png" width="270" height="480"/>
+<img src="screenshot/Screenshot_1506920160.png" width="270" height="480"/>
