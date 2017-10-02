@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="get recent"
+        android:icon="@drawable/ic_refresh"
+        app:showAsAction="ifRoom"
+        android:id="@+id/linear_manager"
+        />
+    <item
+        app:showAsAction="never"
+        android:title="1 columns"
+        android:id="@+id/grid_manager"
+        />
+    <item
+        app:showAsAction="never"
+        android:title="3 columns"
+        android:id="@+id/staggered_manager"
+        />
+</menu>
